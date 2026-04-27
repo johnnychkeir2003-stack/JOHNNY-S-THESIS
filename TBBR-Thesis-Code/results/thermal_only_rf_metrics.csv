@@ -1,0 +1,2 @@
+model,rows_total,train_size,test_size,positive_count,negative_count,accuracy,precision,recall,f1_score,tn,fp,fn,tp,features_used
+thermal_only_random_forest,85889,68711,17178,1556,84333,0.9915007567819304,0.8909952606635071,0.6045016077170418,0.7203065134099617,16844,23,123,188,"thermal_mean, thermal_max, thermal_min, thermal_std, area, bbox_width, bbox_height, aspect_ratio"

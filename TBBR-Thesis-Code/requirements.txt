@@ -1,0 +1,8 @@
+﻿numpy
+pandas
+scikit-image
+shapely
+scikit-learn
+matplotlib
+tqdm
+joblib

@@ -1,0 +1,2 @@
+model,rows_total,train_size,test_size,positive_count,negative_count,accuracy,precision,recall,f1_score,tn,fp,fn,tp,features_used
+thermal_height_logistic_regression,85889,68711,17178,1556,84333,0.9437070671789498,0.23419773095623986,0.9292604501607717,0.37411003236245954,15922,945,22,289,"thermal_mean, thermal_max, thermal_min, thermal_std, height_mean, height_max, height_min, height_std, area, bbox_width, bbox_height, aspect_ratio"

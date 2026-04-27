@@ -1,0 +1,2 @@
+model,rows_total,train_size,test_size,positive_count,negative_count,accuracy,precision,recall,f1_score,tn,fp,fn,tp,features_used
+thermal_only_logistic_regression,85889,68711,17178,1556,84333,0.9321806962393759,0.2013986013986014,0.9260450160771704,0.3308443423319931,15725,1142,23,288,"thermal_mean, thermal_max, thermal_min, thermal_std, area, bbox_width, bbox_height, aspect_ratio"
